@@ -1,5 +1,8 @@
 ## Code challenge answer
 
+### Prerequisite
+ * `ruby 2+`
+
 ## Problem 1: [AreAnagrams](https://github.com/kannans/code-challenge-answer/blob/master/anagram.rb)
 
  `ruby anagram.rb`
