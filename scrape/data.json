@@ -1,0 +1,2747 @@
+[
+  {
+    "name": "Princeton University",
+    "rank": 1,
+    "acceptance_rate": "7.4%",
+    "graduation_rate": "90%",
+    "average_retention_rate": "98%",
+    "tuition_fees": "$43,450",
+    "total_enrollment": "5,391"
+  },
+  {
+    "name": "Harvard University",
+    "rank": 2,
+    "acceptance_rate": "6%",
+    "graduation_rate": "86%",
+    "average_retention_rate": "97%",
+    "tuition_fees": "$45,278",
+    "total_enrollment": "6,694"
+  },
+  {
+    "name": "Yale University",
+    "rank": 3,
+    "acceptance_rate": "6.3%",
+    "graduation_rate": "87%",
+    "average_retention_rate": "99%",
+    "tuition_fees": "$47,600",
+    "total_enrollment": "5,477"
+  },
+  {
+    "name": "Columbia University",
+    "rank": 4,
+    "acceptance_rate": "7%",
+    "graduation_rate": "90%",
+    "average_retention_rate": "99%",
+    "tuition_fees": "$51,008",
+    "total_enrollment": "6,170"
+  },
+  {
+    "name": "Stanford University",
+    "rank": 4,
+    "acceptance_rate": "5.1%",
+    "graduation_rate": "76%",
+    "average_retention_rate": "98%",
+    "tuition_fees": "$46,320",
+    "total_enrollment": "7,019"
+  },
+  {
+    "name": "University of Chicago",
+    "rank": 4,
+    "acceptance_rate": "8.8%",
+    "graduation_rate": "87%",
+    "average_retention_rate": "99%",
+    "tuition_fees": "$50,193",
+    "total_enrollment": "5,681"
+  },
+  {
+    "name": "Massachusetts Institute of Technology",
+    "rank": 7,
+    "acceptance_rate": "7.9%",
+    "graduation_rate": "81%",
+    "average_retention_rate": "98%",
+    "tuition_fees": "$46,704",
+    "total_enrollment": "4,512"
+  },
+  {
+    "name": "Duke University",
+    "rank": 8,
+    "acceptance_rate": "11.4%",
+    "graduation_rate": "87%",
+    "average_retention_rate": "97%",
+    "tuition_fees": "$49,341",
+    "total_enrollment": "6,626"
+  },
+  {
+    "name": "University of Pennsylvania",
+    "rank": 9,
+    "acceptance_rate": "10.4%",
+    "graduation_rate": "87%",
+    "average_retention_rate": "98%",
+    "tuition_fees": "$49,536",
+    "total_enrollment": "9,746"
+  },
+  {
+    "name": "California Institute of Technology",
+    "rank": 10,
+    "acceptance_rate": "8.8%",
+    "graduation_rate": "85%",
+    "average_retention_rate": "97%",
+    "tuition_fees": "$45,390",
+    "total_enrollment": "983"
+  },
+  {
+    "name": "Johns Hopkins University",
+    "rank": 10,
+    "acceptance_rate": "15%",
+    "graduation_rate": "88%",
+    "average_retention_rate": "97%",
+    "tuition_fees": "$48,710",
+    "total_enrollment": "6,469"
+  },
+  {
+    "name": "Dartmouth College",
+    "rank": 12,
+    "acceptance_rate": "11.5%",
+    "graduation_rate": "88%",
+    "average_retention_rate": "98%",
+    "tuition_fees": "$49,506",
+    "total_enrollment": "4,289"
+  },
+  {
+    "name": "Northwestern University",
+    "rank": 12,
+    "acceptance_rate": "13.1%",
+    "graduation_rate": "85%",
+    "average_retention_rate": "97%",
+    "tuition_fees": "$49,047",
+    "total_enrollment": "8,405"
+  },
+  {
+    "name": "Brown University",
+    "rank": 14,
+    "acceptance_rate": "8.7%",
+    "graduation_rate": "84%",
+    "average_retention_rate": "98%",
+    "tuition_fees": "$49,346",
+    "total_enrollment": "6,548"
+  },
+  {
+    "name": "Cornell University",
+    "rank": 15,
+    "acceptance_rate": "14.2%",
+    "graduation_rate": "87%",
+    "average_retention_rate": "97%",
+    "tuition_fees": "$49,116",
+    "total_enrollment": "14,453"
+  },
+  {
+    "name": "Vanderbilt University",
+    "rank": 15,
+    "acceptance_rate": "13.1%",
+    "graduation_rate": "88%",
+    "average_retention_rate": "97%",
+    "tuition_fees": "$43,838",
+    "total_enrollment": "6,851"
+  },
+  {
+    "name": "Washington University in St. Louis",
+    "rank": 15,
+    "acceptance_rate": "17.1%",
+    "graduation_rate": "90%",
+    "average_retention_rate": "97%",
+    "tuition_fees": "$48,093",
+    "total_enrollment": "7,401"
+  },
+  {
+    "name": "Rice University",
+    "rank": 18,
+    "acceptance_rate": "15.1%",
+    "graduation_rate": "82%",
+    "average_retention_rate": "97%",
+    "tuition_fees": "$42,253",
+    "total_enrollment": "3,926"
+  },
+  {
+    "name": "University of Notre Dame",
+    "rank": 18,
+    "acceptance_rate": "21.1%",
+    "graduation_rate": "91%",
+    "average_retention_rate": "98%",
+    "tuition_fees": "$47,929",
+    "total_enrollment": "8,448"
+  },
+  {
+    "name": "University of California--Berkeley",
+    "rank": 20,
+    "acceptance_rate": "16%",
+    "graduation_rate": "72%",
+    "average_retention_rate": "97%",
+    "tuition_fees": "$38,140 (out-of-state), $13,432 (in-state)",
+    "total_enrollment": "27,126"
+  },
+  {
+    "name": "Emory University",
+    "rank": 21,
+    "acceptance_rate": "26.8%",
+    "graduation_rate": "84%",
+    "average_retention_rate": "95%",
+    "tuition_fees": "$46,314",
+    "total_enrollment": "7,829"
+  },
+  {
+    "name": "Georgetown University",
+    "rank": 21,
+    "acceptance_rate": "17.4%",
+    "graduation_rate": "91%",
+    "average_retention_rate": "96%",
+    "tuition_fees": "$48,611",
+    "total_enrollment": "7,595"
+  },
+  {
+    "name": "Carnegie Mellon University",
+    "rank": 23,
+    "acceptance_rate": "24.6%",
+    "graduation_rate": "72%",
+    "average_retention_rate": "95%",
+    "tuition_fees": "$50,410",
+    "total_enrollment": "6,309"
+  },
+  {
+    "name": "University of California--Los Angeles",
+    "rank": 23,
+    "acceptance_rate": "18.6%",
+    "graduation_rate": "73%",
+    "average_retention_rate": "97%",
+    "tuition_fees": "$35,631 (out-of-state), $12,753 (in-state)",
+    "total_enrollment": "29,633"
+  },
+  {
+    "name": "University of Southern California",
+    "rank": 23,
+    "acceptance_rate": "18%",
+    "graduation_rate": "76%",
+    "average_retention_rate": "97%",
+    "tuition_fees": "$50,210",
+    "total_enrollment": "18,740"
+  },
+  {
+    "name": "Princeton University",
+    "rank": 1,
+    "acceptance_rate": "7.4%",
+    "graduation_rate": "90%",
+    "average_retention_rate": "98%",
+    "tuition_fees": "$43,450",
+    "total_enrollment": "5,391"
+  },
+  {
+    "name": "Harvard University",
+    "rank": 2,
+    "acceptance_rate": "6%",
+    "graduation_rate": "86%",
+    "average_retention_rate": "97%",
+    "tuition_fees": "$45,278",
+    "total_enrollment": "6,694"
+  },
+  {
+    "name": "Yale University",
+    "rank": 3,
+    "acceptance_rate": "6.3%",
+    "graduation_rate": "87%",
+    "average_retention_rate": "99%",
+    "tuition_fees": "$47,600",
+    "total_enrollment": "5,477"
+  },
+  {
+    "name": "Columbia University",
+    "rank": 4,
+    "acceptance_rate": "7%",
+    "graduation_rate": "90%",
+    "average_retention_rate": "99%",
+    "tuition_fees": "$51,008",
+    "total_enrollment": "6,170"
+  },
+  {
+    "name": "Stanford University",
+    "rank": 4,
+    "acceptance_rate": "5.1%",
+    "graduation_rate": "76%",
+    "average_retention_rate": "98%",
+    "tuition_fees": "$46,320",
+    "total_enrollment": "7,019"
+  },
+  {
+    "name": "University of Chicago",
+    "rank": 4,
+    "acceptance_rate": "8.8%",
+    "graduation_rate": "87%",
+    "average_retention_rate": "99%",
+    "tuition_fees": "$50,193",
+    "total_enrollment": "5,681"
+  },
+  {
+    "name": "Massachusetts Institute of Technology",
+    "rank": 7,
+    "acceptance_rate": "7.9%",
+    "graduation_rate": "81%",
+    "average_retention_rate": "98%",
+    "tuition_fees": "$46,704",
+    "total_enrollment": "4,512"
+  },
+  {
+    "name": "Duke University",
+    "rank": 8,
+    "acceptance_rate": "11.4%",
+    "graduation_rate": "87%",
+    "average_retention_rate": "97%",
+    "tuition_fees": "$49,341",
+    "total_enrollment": "6,626"
+  },
+  {
+    "name": "University of Pennsylvania",
+    "rank": 9,
+    "acceptance_rate": "10.4%",
+    "graduation_rate": "87%",
+    "average_retention_rate": "98%",
+    "tuition_fees": "$49,536",
+    "total_enrollment": "9,746"
+  },
+  {
+    "name": "California Institute of Technology",
+    "rank": 10,
+    "acceptance_rate": "8.8%",
+    "graduation_rate": "85%",
+    "average_retention_rate": "97%",
+    "tuition_fees": "$45,390",
+    "total_enrollment": "983"
+  },
+  {
+    "name": "Johns Hopkins University",
+    "rank": 10,
+    "acceptance_rate": "15%",
+    "graduation_rate": "88%",
+    "average_retention_rate": "97%",
+    "tuition_fees": "$48,710",
+    "total_enrollment": "6,469"
+  },
+  {
+    "name": "Dartmouth College",
+    "rank": 12,
+    "acceptance_rate": "11.5%",
+    "graduation_rate": "88%",
+    "average_retention_rate": "98%",
+    "tuition_fees": "$49,506",
+    "total_enrollment": "4,289"
+  },
+  {
+    "name": "Northwestern University",
+    "rank": 12,
+    "acceptance_rate": "13.1%",
+    "graduation_rate": "85%",
+    "average_retention_rate": "97%",
+    "tuition_fees": "$49,047",
+    "total_enrollment": "8,405"
+  },
+  {
+    "name": "Brown University",
+    "rank": 14,
+    "acceptance_rate": "8.7%",
+    "graduation_rate": "84%",
+    "average_retention_rate": "98%",
+    "tuition_fees": "$49,346",
+    "total_enrollment": "6,548"
+  },
+  {
+    "name": "Cornell University",
+    "rank": 15,
+    "acceptance_rate": "14.2%",
+    "graduation_rate": "87%",
+    "average_retention_rate": "97%",
+    "tuition_fees": "$49,116",
+    "total_enrollment": "14,453"
+  },
+  {
+    "name": "Vanderbilt University",
+    "rank": 15,
+    "acceptance_rate": "13.1%",
+    "graduation_rate": "88%",
+    "average_retention_rate": "97%",
+    "tuition_fees": "$43,838",
+    "total_enrollment": "6,851"
+  },
+  {
+    "name": "Washington University in St. Louis",
+    "rank": 15,
+    "acceptance_rate": "17.1%",
+    "graduation_rate": "90%",
+    "average_retention_rate": "97%",
+    "tuition_fees": "$48,093",
+    "total_enrollment": "7,401"
+  },
+  {
+    "name": "Rice University",
+    "rank": 18,
+    "acceptance_rate": "15.1%",
+    "graduation_rate": "82%",
+    "average_retention_rate": "97%",
+    "tuition_fees": "$42,253",
+    "total_enrollment": "3,926"
+  },
+  {
+    "name": "University of Notre Dame",
+    "rank": 18,
+    "acceptance_rate": "21.1%",
+    "graduation_rate": "91%",
+    "average_retention_rate": "98%",
+    "tuition_fees": "$47,929",
+    "total_enrollment": "8,448"
+  },
+  {
+    "name": "University of California--Berkeley",
+    "rank": 20,
+    "acceptance_rate": "16%",
+    "graduation_rate": "72%",
+    "average_retention_rate": "97%",
+    "tuition_fees": "$38,140 (out-of-state), $13,432 (in-state)",
+    "total_enrollment": "27,126"
+  },
+  {
+    "name": "Emory University",
+    "rank": 21,
+    "acceptance_rate": "26.8%",
+    "graduation_rate": "84%",
+    "average_retention_rate": "95%",
+    "tuition_fees": "$46,314",
+    "total_enrollment": "7,829"
+  },
+  {
+    "name": "Georgetown University",
+    "rank": 21,
+    "acceptance_rate": "17.4%",
+    "graduation_rate": "91%",
+    "average_retention_rate": "96%",
+    "tuition_fees": "$48,611",
+    "total_enrollment": "7,595"
+  },
+  {
+    "name": "Carnegie Mellon University",
+    "rank": 23,
+    "acceptance_rate": "24.6%",
+    "graduation_rate": "72%",
+    "average_retention_rate": "95%",
+    "tuition_fees": "$50,410",
+    "total_enrollment": "6,309"
+  },
+  {
+    "name": "University of California--Los Angeles",
+    "rank": 23,
+    "acceptance_rate": "18.6%",
+    "graduation_rate": "73%",
+    "average_retention_rate": "97%",
+    "tuition_fees": "$35,631 (out-of-state), $12,753 (in-state)",
+    "total_enrollment": "29,633"
+  },
+  {
+    "name": "University of Southern California",
+    "rank": 23,
+    "acceptance_rate": "18%",
+    "graduation_rate": "76%",
+    "average_retention_rate": "97%",
+    "tuition_fees": "$50,210",
+    "total_enrollment": "18,740"
+  },
+  {
+    "name": "University of Virginia",
+    "rank": 26,
+    "acceptance_rate": "29%",
+    "graduation_rate": "87%",
+    "average_retention_rate": "97%",
+    "tuition_fees": "$43,822 (out-of-state), $14,526 (in-state)",
+    "total_enrollment": "16,483"
+  },
+  {
+    "name": "Tufts University",
+    "rank": 27,
+    "acceptance_rate": "17.3%",
+    "graduation_rate": "88%",
+    "average_retention_rate": "96%",
+    "tuition_fees": "$50,604",
+    "total_enrollment": "5,177"
+  },
+  {
+    "name": "Wake Forest University",
+    "rank": 27,
+    "acceptance_rate": "34.4%",
+    "graduation_rate": "83%",
+    "average_retention_rate": "94%",
+    "tuition_fees": "$47,682",
+    "total_enrollment": "4,867"
+  },
+  {
+    "name": "University of Michigan--Ann Arbor",
+    "rank": 29,
+    "acceptance_rate": "32.2%",
+    "graduation_rate": "76%",
+    "average_retention_rate": "97%",
+    "tuition_fees": "$43,377 (out-of-state), $14,336 (in-state)",
+    "total_enrollment": "28,395"
+  },
+  {
+    "name": "Boston College",
+    "rank": 30,
+    "acceptance_rate": "33.9%",
+    "graduation_rate": "88%",
+    "average_retention_rate": "95%",
+    "tuition_fees": "$49,324",
+    "total_enrollment": "9,154"
+  },
+  {
+    "name": "University of North Carolina--Chapel Hill",
+    "rank": 30,
+    "acceptance_rate": "28.5%",
+    "graduation_rate": "81%",
+    "average_retention_rate": "97%",
+    "tuition_fees": "$33,644 (out-of-state), $8,562 (in-state)",
+    "total_enrollment": "18,350"
+  },
+  {
+    "name": "New York University",
+    "rank": 32,
+    "acceptance_rate": "35.5%",
+    "graduation_rate": "72%",
+    "average_retention_rate": "92%",
+    "tuition_fees": "$46,170",
+    "total_enrollment": "24,985"
+  },
+  {
+    "name": "University of Rochester",
+    "rank": 33,
+    "acceptance_rate": "36.4%",
+    "graduation_rate": "73%",
+    "average_retention_rate": "96%",
+    "tuition_fees": "$48,290",
+    "total_enrollment": "6,266"
+  },
+  {
+    "name": "Brandeis University",
+    "rank": 34,
+    "acceptance_rate": "35.2%",
+    "graduation_rate": "85%",
+    "average_retention_rate": "94%",
+    "tuition_fees": "$49,598",
+    "total_enrollment": "3,729"
+  },
+  {
+    "name": "College of William and Mary",
+    "rank": 34,
+    "acceptance_rate": "33%",
+    "graduation_rate": "83%",
+    "average_retention_rate": "96%",
+    "tuition_fees": "$40,516 (out-of-state), $16,919 (in-state)",
+    "total_enrollment": "6,299"
+  },
+  {
+    "name": "Georgia Institute of Technology",
+    "rank": 36,
+    "acceptance_rate": "33.4%",
+    "graduation_rate": "37%",
+    "average_retention_rate": "96%",
+    "tuition_fees": "$32,396 (out-of-state), $12,204 (in-state)",
+    "total_enrollment": "14,682"
+  },
+  {
+    "name": "Case Western Reserve University",
+    "rank": 37,
+    "acceptance_rate": "38.3%",
+    "graduation_rate": "64%",
+    "average_retention_rate": "93%",
+    "tuition_fees": "$44,560",
+    "total_enrollment": "4,911"
+  },
+  {
+    "name": "University of California--Santa Barbara",
+    "rank": 37,
+    "acceptance_rate": "36.3%",
+    "graduation_rate": "72%",
+    "average_retention_rate": "92%",
+    "tuition_fees": "$38,573 (out-of-state), $13,865 (in-state)",
+    "total_enrollment": "20,238"
+  },
+  {
+    "name": "University of California--Irvine",
+    "rank": 39,
+    "acceptance_rate": "37.4%",
+    "graduation_rate": "68%",
+    "average_retention_rate": "93%",
+    "tuition_fees": "$37,455 (out-of-state), $14,577 (in-state)",
+    "total_enrollment": "24,489"
+  },
+  {
+    "name": "University of California--San Diego",
+    "rank": 39,
+    "acceptance_rate": "33.5%",
+    "graduation_rate": "57%",
+    "average_retention_rate": "95%",
+    "tuition_fees": "$38,066 (out-of-state), $14,042 (in-state)",
+    "total_enrollment": "24,810"
+  },
+  {
+    "name": "Boston University",
+    "rank": 41,
+    "acceptance_rate": "34.5%",
+    "graduation_rate": "80%",
+    "average_retention_rate": "93%",
+    "tuition_fees": "$48,436",
+    "total_enrollment": "18,017"
+  },
+  {
+    "name": "Rensselaer Polytechnic Institute",
+    "rank": 41,
+    "acceptance_rate": "37.5%",
+    "graduation_rate": "61%",
+    "average_retention_rate": "93%",
+    "tuition_fees": "$49,341",
+    "total_enrollment": "5,618"
+  },
+  {
+    "name": "Tulane University",
+    "rank": 41,
+    "acceptance_rate": "28%",
+    "graduation_rate": "70%",
+    "average_retention_rate": "90%",
+    "tuition_fees": "$49,638",
+    "total_enrollment": "8,353"
+  },
+  {
+    "name": "University of California--Davis",
+    "rank": 41,
+    "acceptance_rate": "40.6%",
+    "graduation_rate": "55%",
+    "average_retention_rate": "93%",
+    "tuition_fees": "$38,659 (out-of-state), $13,951 (in-state)",
+    "total_enrollment": "27,728"
+  },
+  {
+    "name": "University of Illinois--Urbana-Champaign",
+    "rank": 41,
+    "acceptance_rate": "59%",
+    "graduation_rate": "69%",
+    "average_retention_rate": "94%",
+    "tuition_fees": "$30,786 (out-of-state), $15,626 (in-state)",
+    "total_enrollment": "32,959"
+  },
+  {
+    "name": "University of Wisconsin--Madison",
+    "rank": 41,
+    "acceptance_rate": "49.8%",
+    "graduation_rate": "56%",
+    "average_retention_rate": "95%",
+    "tuition_fees": "$29,665 (out-of-state), $10,415 (in-state)",
+    "total_enrollment": "31,289"
+  },
+  {
+    "name": "Lehigh University",
+    "rank": 47,
+    "acceptance_rate": "34.3%",
+    "graduation_rate": "76%",
+    "average_retention_rate": "95%",
+    "tuition_fees": "$46,230",
+    "total_enrollment": "5,062"
+  },
+  {
+    "name": "Northeastern University",
+    "rank": 47,
+    "acceptance_rate": "32.2%",
+    "graduation_rate": "N/A",
+    "average_retention_rate": "96%",
+    "tuition_fees": "$45,530",
+    "total_enrollment": "13,510"
+  },
+  {
+    "name": "Pennsylvania State University--University Park",
+    "rank": 47,
+    "acceptance_rate": "50.3%",
+    "graduation_rate": "66%",
+    "average_retention_rate": "92%",
+    "tuition_fees": "$31,346 (out-of-state), $17,514 (in-state)",
+    "total_enrollment": "40,541"
+  },
+  {
+    "name": "University of Florida",
+    "rank": 47,
+    "acceptance_rate": "47.1%",
+    "graduation_rate": "67%",
+    "average_retention_rate": "96%",
+    "tuition_fees": "$28,591 (out-of-state), $6,313 (in-state)",
+    "total_enrollment": "33,720"
+  },
+  {
+    "name": "University of Miami",
+    "rank": 51,
+    "acceptance_rate": "38.2%",
+    "graduation_rate": "68%",
+    "average_retention_rate": "92%",
+    "tuition_fees": "$45,724",
+    "total_enrollment": "11,273"
+  },
+  {
+    "name": "Ohio State University--Columbus",
+    "rank": 52,
+    "acceptance_rate": "53%",
+    "graduation_rate": "61%",
+    "average_retention_rate": "93%",
+    "tuition_fees": "$26,537 (out-of-state), $10,037 (in-state)",
+    "total_enrollment": "44,741"
+  },
+  {
+    "name": "Pepperdine University",
+    "rank": 52,
+    "acceptance_rate": "35.5%",
+    "graduation_rate": "75%",
+    "average_retention_rate": "92%",
+    "tuition_fees": "$48,342",
+    "total_enrollment": "3,451"
+  },
+  {
+    "name": "University of Texas--Austin",
+    "rank": 52,
+    "acceptance_rate": "39.7%",
+    "graduation_rate": "52%",
+    "average_retention_rate": "94%",
+    "tuition_fees": "$34,836 (out-of-state), $9,830 (in-state)",
+    "total_enrollment": "39,523"
+  },
+  {
+    "name": "University of Washington",
+    "rank": 52,
+    "acceptance_rate": "55.2%",
+    "graduation_rate": "61%",
+    "average_retention_rate": "93%",
+    "tuition_fees": "$33,513 (out-of-state), $12,394 (in-state)",
+    "total_enrollment": "30,672"
+  },
+  {
+    "name": "Yeshiva University",
+    "rank": 52,
+    "acceptance_rate": "81.8%",
+    "graduation_rate": "59%",
+    "average_retention_rate": "91%",
+    "tuition_fees": "$39,530",
+    "total_enrollment": "2,817"
+  },
+  {
+    "name": "George Washington University",
+    "rank": 57,
+    "acceptance_rate": "43.8%",
+    "graduation_rate": "72%",
+    "average_retention_rate": "93%",
+    "tuition_fees": "$50,435",
+    "total_enrollment": "10,740"
+  },
+  {
+    "name": "University of Connecticut",
+    "rank": 57,
+    "acceptance_rate": "50%",
+    "graduation_rate": "67%",
+    "average_retention_rate": "93%",
+    "tuition_fees": "$34,908 (out-of-state), $13,364 (in-state)",
+    "total_enrollment": "18,395"
+  },
+  {
+    "name": "University of Maryland--College Park",
+    "rank": 57,
+    "acceptance_rate": "47.8%",
+    "graduation_rate": "67%",
+    "average_retention_rate": "95%",
+    "tuition_fees": "$31,144 (out-of-state), $9,996 (in-state)",
+    "total_enrollment": "27,056"
+  },
+  {
+    "name": "Worcester Polytechnic Institute",
+    "rank": 57,
+    "acceptance_rate": "43.8%",
+    "graduation_rate": "74%",
+    "average_retention_rate": "96%",
+    "tuition_fees": "$45,590",
+    "total_enrollment": "4,235"
+  },
+  {
+    "name": "Clemson University",
+    "rank": 61,
+    "acceptance_rate": "52.8%",
+    "graduation_rate": "61%",
+    "average_retention_rate": "91%",
+    "tuition_fees": "$32,796 (out-of-state), $14,240 (in-state)",
+    "total_enrollment": "17,260"
+  },
+  {
+    "name": "Purdue University--West Lafayette",
+    "rank": 61,
+    "acceptance_rate": "59.2%",
+    "graduation_rate": "46%",
+    "average_retention_rate": "92%",
+    "tuition_fees": "$28,804 (out-of-state), $10,002 (in-state)",
+    "total_enrollment": "29,255"
+  },
+  {
+    "name": "Southern Methodist University",
+    "rank": 61,
+    "acceptance_rate": "52.4%",
+    "graduation_rate": "67%",
+    "average_retention_rate": "90%",
+    "tuition_fees": "$48,190",
+    "total_enrollment": "6,391"
+  },
+  {
+    "name": "Syracuse University",
+    "rank": 61,
+    "acceptance_rate": "53.2%",
+    "graduation_rate": "69%",
+    "average_retention_rate": "92%",
+    "tuition_fees": "$43,318",
+    "total_enrollment": "15,224"
+  },
+  {
+    "name": "University of Georgia",
+    "rank": 61,
+    "acceptance_rate": "55.8%",
+    "graduation_rate": "61%",
+    "average_retention_rate": "94%",
+    "tuition_fees": "$29,832 (out-of-state), $11,622 (in-state)",
+    "total_enrollment": "26,882"
+  },
+  {
+    "name": "Brigham Young University--Provo",
+    "rank": 66,
+    "acceptance_rate": "47%",
+    "graduation_rate": "29%",
+    "average_retention_rate": "88%",
+    "tuition_fees": "$5,150",
+    "total_enrollment": "27,163"
+  },
+  {
+    "name": "Fordham University",
+    "rank": 66,
+    "acceptance_rate": "48.1%",
+    "graduation_rate": "75%",
+    "average_retention_rate": "89%",
+    "tuition_fees": "$45,623",
+    "total_enrollment": "8,633"
+  },
+  {
+    "name": "University of Pittsburgh",
+    "rank": 66,
+    "acceptance_rate": "53.1%",
+    "graduation_rate": "65%",
+    "average_retention_rate": "92%",
+    "tuition_fees": "$28,958 (out-of-state), $18,192 (in-state)",
+    "total_enrollment": "18,757"
+  },
+  {
+    "name": "University of Minnesota--Twin Cities",
+    "rank": 69,
+    "acceptance_rate": "45.4%",
+    "graduation_rate": "58%",
+    "average_retention_rate": "91%",
+    "tuition_fees": "$20,810 (out-of-state), $13,560 (in-state)",
+    "total_enrollment": "34,351"
+  },
+  {
+    "name": "Texas A&M University--College Station",
+    "rank": 70,
+    "acceptance_rate": "71%",
+    "graduation_rate": "50%",
+    "average_retention_rate": "91%",
+    "tuition_fees": "$26,356 (out-of-state), $9,180 (in-state)",
+    "total_enrollment": "47,093"
+  },
+  {
+    "name": "Virginia Tech",
+    "rank": 70,
+    "acceptance_rate": "72.6%",
+    "graduation_rate": "61%",
+    "average_retention_rate": "92%",
+    "tuition_fees": "$27,444 (out-of-state), $12,017 (in-state)",
+    "total_enrollment": "24,247"
+  },
+  {
+    "name": "American University",
+    "rank": 72,
+    "acceptance_rate": "45.8%",
+    "graduation_rate": "76%",
+    "average_retention_rate": "89%",
+    "tuition_fees": "$43,103",
+    "total_enrollment": "7,706"
+  },
+  {
+    "name": "Baylor University",
+    "rank": 72,
+    "acceptance_rate": "55.4%",
+    "graduation_rate": "55%",
+    "average_retention_rate": "87%",
+    "tuition_fees": "$40,198",
+    "total_enrollment": "13,859"
+  },
+  {
+    "name": "Rutgers, The State University of New Jersey--New Brunswick",
+    "rank": 72,
+    "acceptance_rate": "60.5%",
+    "graduation_rate": "59%",
+    "average_retention_rate": "92%",
+    "tuition_fees": "$29,521 (out-of-state), $14,131 (in-state)",
+    "total_enrollment": "34,544"
+  },
+  {
+    "name": "Clark University",
+    "rank": 75,
+    "acceptance_rate": "54%",
+    "graduation_rate": "72%",
+    "average_retention_rate": "89%",
+    "tuition_fees": "$41,940",
+    "total_enrollment": "2,301"
+  },
+  {
+    "name": "Colorado School of Mines",
+    "rank": 75,
+    "acceptance_rate": "36.5%",
+    "graduation_rate": "42%",
+    "average_retention_rate": "91%",
+    "tuition_fees": "$34,828 (out-of-state), $17,383 (in-state)",
+    "total_enrollment": "4,456"
+  },
+  {
+    "name": "Indiana University--Bloomington",
+    "rank": 75,
+    "acceptance_rate": "76.1%",
+    "graduation_rate": "59%",
+    "average_retention_rate": "89%",
+    "tuition_fees": "$33,741 (out-of-state), $10,388 (in-state)",
+    "total_enrollment": "36,419"
+  },
+  {
+    "name": "Michigan State University",
+    "rank": 75,
+    "acceptance_rate": "66.1%",
+    "graduation_rate": "53%",
+    "average_retention_rate": "91%",
+    "tuition_fees": "$36,360 (out-of-state), $13,560 (in-state)",
+    "total_enrollment": "38,786"
+  },
+  {
+    "name": "Stevens Institute of Technology",
+    "rank": 75,
+    "acceptance_rate": "43.8%",
+    "graduation_rate": "40%",
+    "average_retention_rate": "95%",
+    "tuition_fees": "$47,190",
+    "total_enrollment": "2,892"
+  },
+  {
+    "name": "University of Delaware",
+    "rank": 75,
+    "acceptance_rate": "65.9%",
+    "graduation_rate": "68%",
+    "average_retention_rate": "92%",
+    "tuition_fees": "$30,692 (out-of-state), $12,342 (in-state)",
+    "total_enrollment": "18,141"
+  },
+  {
+    "name": "University of Massachusetts--Amherst",
+    "rank": 75,
+    "acceptance_rate": "61.3%",
+    "graduation_rate": "63%",
+    "average_retention_rate": "89%",
+    "tuition_fees": "$30,689 (out-of-state), $14,356 (in-state)",
+    "total_enrollment": "22,252"
+  },
+  {
+    "name": "Miami University--Oxford",
+    "rank": 82,
+    "acceptance_rate": "65.8%",
+    "graduation_rate": "66%",
+    "average_retention_rate": "90%",
+    "tuition_fees": "$30,987 (out-of-state), $14,287 (in-state)",
+    "total_enrollment": "15,813"
+  },
+  {
+    "name": "Texas Christian University",
+    "rank": 82,
+    "acceptance_rate": "48.9%",
+    "graduation_rate": "59%",
+    "average_retention_rate": "89%",
+    "tuition_fees": "$40,720",
+    "total_enrollment": "8,647"
+  },
+  {
+    "name": "University of California--Santa Cruz",
+    "rank": 82,
+    "acceptance_rate": "57%",
+    "graduation_rate": "57%",
+    "average_retention_rate": "90%",
+    "tuition_fees": "$38,189 (out-of-state), $13,481 (in-state)",
+    "total_enrollment": "16,277"
+  },
+  {
+    "name": "University of Iowa",
+    "rank": 82,
+    "acceptance_rate": "81%",
+    "graduation_rate": "48%",
+    "average_retention_rate": "86%",
+    "tuition_fees": "$27,890 (out-of-state), $8,104 (in-state)",
+    "total_enrollment": "22,354"
+  },
+  {
+    "name": "Marquette University",
+    "rank": 86,
+    "acceptance_rate": "66.7%",
+    "graduation_rate": "59%",
+    "average_retention_rate": "90%",
+    "tuition_fees": "$37,170",
+    "total_enrollment": "8,410"
+  },
+  {
+    "name": "University of Denver",
+    "rank": 86,
+    "acceptance_rate": "76.5%",
+    "graduation_rate": "66%",
+    "average_retention_rate": "87%",
+    "tuition_fees": "$44,178",
+    "total_enrollment": "5,643"
+  },
+  {
+    "name": "University of Tulsa",
+    "rank": 86,
+    "acceptance_rate": "40.3%",
+    "graduation_rate": "52%",
+    "average_retention_rate": "88%",
+    "tuition_fees": "$36,962",
+    "total_enrollment": "3,473"
+  },
+  {
+    "name": "Binghamton University--SUNY",
+    "rank": 89,
+    "acceptance_rate": "44.1%",
+    "graduation_rate": "68%",
+    "average_retention_rate": "91%",
+    "tuition_fees": "$22,164 (out-of-state), $9,044 (in-state)",
+    "total_enrollment": "13,412"
+  },
+  {
+    "name": "North Carolina State University--Raleigh",
+    "rank": 89,
+    "acceptance_rate": "51.4%",
+    "graduation_rate": "42%",
+    "average_retention_rate": "92%",
+    "tuition_fees": "$24,932 (out-of-state), $8,581 (in-state)",
+    "total_enrollment": "24,473"
+  },
+  {
+    "name": "Stony Brook University--SUNY",
+    "rank": 89,
+    "acceptance_rate": "41.3%",
+    "graduation_rate": "48%",
+    "average_retention_rate": "90%",
+    "tuition_fees": "$23,935 (out-of-state), $8,855 (in-state)",
+    "total_enrollment": "16,480"
+  },
+  {
+    "name": "SUNY College of Environmental Science and Forestry",
+    "rank": 89,
+    "acceptance_rate": "51.1%",
+    "graduation_rate": "47%",
+    "average_retention_rate": "85%",
+    "tuition_fees": "$17,620 (out-of-state), $7,770 (in-state)",
+    "total_enrollment": "1,856"
+  },
+  {
+    "name": "University of Colorado--Boulder",
+    "rank": 89,
+    "acceptance_rate": "84.2%",
+    "graduation_rate": "46%",
+    "average_retention_rate": "84%",
+    "tuition_fees": "$34,125 (out-of-state), $11,091 (in-state)",
+    "total_enrollment": "26,426"
+  },
+  {
+    "name": "University of San Diego",
+    "rank": 89,
+    "acceptance_rate": "46.3%",
+    "graduation_rate": "67%",
+    "average_retention_rate": "89%",
+    "tuition_fees": "$44,586",
+    "total_enrollment": "5,741"
+  },
+  {
+    "name": "University of Vermont",
+    "rank": 89,
+    "acceptance_rate": "73.4%",
+    "graduation_rate": "66%",
+    "average_retention_rate": "86%",
+    "tuition_fees": "$37,874 (out-of-state), $16,226 (in-state)",
+    "total_enrollment": "10,992"
+  },
+  {
+    "name": "Florida State University",
+    "rank": 96,
+    "acceptance_rate": "55.4%",
+    "graduation_rate": "61%",
+    "average_retention_rate": "92%",
+    "tuition_fees": "$21,673 (out-of-state), $6,507 (in-state)",
+    "total_enrollment": "32,948"
+  },
+  {
+    "name": "Saint Louis University",
+    "rank": 96,
+    "acceptance_rate": "60.3%",
+    "graduation_rate": "61%",
+    "average_retention_rate": "88%",
+    "tuition_fees": "$39,226",
+    "total_enrollment": "8,564"
+  },
+  {
+    "name": "University of Alabama",
+    "rank": 96,
+    "acceptance_rate": "51.1%",
+    "graduation_rate": "39%",
+    "average_retention_rate": "87%",
+    "tuition_fees": "$25,950 (out-of-state), $10,170 (in-state)",
+    "total_enrollment": "30,752"
+  },
+  {
+    "name": "Drexel University",
+    "rank": 99,
+    "acceptance_rate": "76%",
+    "graduation_rate": "24%",
+    "average_retention_rate": "85%",
+    "tuition_fees": "$48,791",
+    "total_enrollment": "14,503"
+  },
+  {
+    "name": "Loyola University Chicago",
+    "rank": 99,
+    "acceptance_rate": "63.3%",
+    "graduation_rate": "65%",
+    "average_retention_rate": "86%",
+    "tuition_fees": "$39,179",
+    "total_enrollment": "10,322"
+  },
+  {
+    "name": "University at Buffalo--SUNY",
+    "rank": 99,
+    "acceptance_rate": "57.8%",
+    "graduation_rate": "53%",
+    "average_retention_rate": "88%",
+    "tuition_fees": "$22,290 (out-of-state), $8,870 (in-state)",
+    "total_enrollment": "19,829"
+  },
+  {
+    "name": "Auburn University",
+    "rank": 102,
+    "acceptance_rate": "83.5%",
+    "graduation_rate": "42%",
+    "average_retention_rate": "90%",
+    "tuition_fees": "$28,040 (out-of-state), $10,424 (in-state)",
+    "total_enrollment": "20,629"
+  },
+  {
+    "name": "University of Missouri",
+    "rank": 103,
+    "acceptance_rate": "77.7%",
+    "graduation_rate": "46%",
+    "average_retention_rate": "85%",
+    "tuition_fees": "$25,166 (out-of-state), $9,509 (in-state)",
+    "total_enrollment": "27,654"
+  },
+  {
+    "name": "University of Nebraska--Lincoln",
+    "rank": 103,
+    "acceptance_rate": "69.9%",
+    "graduation_rate": "33%",
+    "average_retention_rate": "84%",
+    "tuition_fees": "$22,790 (out-of-state), $8,382 (in-state)",
+    "total_enrollment": "19,979"
+  },
+  {
+    "name": "University of New Hampshire",
+    "rank": 103,
+    "acceptance_rate": "80%",
+    "graduation_rate": "66%",
+    "average_retention_rate": "86%",
+    "tuition_fees": "$29,532 (out-of-state), $16,552 (in-state)",
+    "total_enrollment": "12,840"
+  },
+  {
+    "name": "University of Oregon",
+    "rank": 103,
+    "acceptance_rate": "74.9%",
+    "graduation_rate": "46%",
+    "average_retention_rate": "86%",
+    "tuition_fees": "$30,888 (out-of-state), $9,918 (in-state)",
+    "total_enrollment": "20,559"
+  },
+  {
+    "name": "University of Tennessee",
+    "rank": 103,
+    "acceptance_rate": "74.8%",
+    "graduation_rate": "39%",
+    "average_retention_rate": "86%",
+    "tuition_fees": "$30,138 (out-of-state), $11,948 (in-state)",
+    "total_enrollment": "21,664"
+  },
+  {
+    "name": "Illinois Institute of Technology",
+    "rank": 108,
+    "acceptance_rate": "50.6%",
+    "graduation_rate": "28%",
+    "average_retention_rate": "93%",
+    "tuition_fees": "$43,680",
+    "total_enrollment": "3,099"
+  },
+  {
+    "name": "Iowa State University",
+    "rank": 108,
+    "acceptance_rate": "86.9%",
+    "graduation_rate": "39%",
+    "average_retention_rate": "87%",
+    "tuition_fees": "$20,856 (out-of-state), $7,736 (in-state)",
+    "total_enrollment": "28,893"
+  },
+  {
+    "name": "University of Dayton",
+    "rank": 108,
+    "acceptance_rate": "59%",
+    "graduation_rate": "59%",
+    "average_retention_rate": "89%",
+    "tuition_fees": "$39,090",
+    "total_enrollment": "8,529"
+  },
+  {
+    "name": "University of Oklahoma",
+    "rank": 108,
+    "acceptance_rate": "81.3%",
+    "graduation_rate": "37%",
+    "average_retention_rate": "85%",
+    "tuition_fees": "$20,469 (out-of-state), $7,695 (in-state)",
+    "total_enrollment": "21,844"
+  },
+  {
+    "name": "University of San Francisco",
+    "rank": 108,
+    "acceptance_rate": "60.1%",
+    "graduation_rate": "61%",
+    "average_retention_rate": "87%",
+    "tuition_fees": "$42,634",
+    "total_enrollment": "6,845"
+  },
+  {
+    "name": "University of South Carolina",
+    "rank": 108,
+    "acceptance_rate": "65.2%",
+    "graduation_rate": "56%",
+    "average_retention_rate": "88%",
+    "tuition_fees": "$29,440 (out-of-state), $11,158 (in-state)",
+    "total_enrollment": "24,863"
+  },
+  {
+    "name": "University of the Pacific",
+    "rank": 108,
+    "acceptance_rate": "54.9%",
+    "graduation_rate": "43%",
+    "average_retention_rate": "85%",
+    "tuition_fees": "$42,934",
+    "total_enrollment": "3,810"
+  },
+  {
+    "name": "Clarkson University",
+    "rank": 115,
+    "acceptance_rate": "62.1%",
+    "graduation_rate": "58%",
+    "average_retention_rate": "88%",
+    "tuition_fees": "$44,630",
+    "total_enrollment": "3,247"
+  },
+  {
+    "name": "Duquesne University",
+    "rank": 115,
+    "acceptance_rate": "73.1%",
+    "graduation_rate": "65%",
+    "average_retention_rate": "89%",
+    "tuition_fees": "$33,778",
+    "total_enrollment": "5,995"
+  },
+  {
+    "name": "Temple University",
+    "rank": 115,
+    "acceptance_rate": "61.7%",
+    "graduation_rate": "41%",
+    "average_retention_rate": "88%",
+    "tuition_fees": "$25,122 (out-of-state), $15,096 (in-state)",
+    "total_enrollment": "28,287"
+  },
+  {
+    "name": "University of Kansas",
+    "rank": 115,
+    "acceptance_rate": "91.4%",
+    "graduation_rate": "37%",
+    "average_retention_rate": "80%",
+    "tuition_fees": "$25,731 (out-of-state), $10,448 (in-state)",
+    "total_enrollment": "19,343"
+  },
+  {
+    "name": "University of St. Thomas",
+    "rank": 115,
+    "acceptance_rate": "86.6%",
+    "graduation_rate": "60%",
+    "average_retention_rate": "87%",
+    "tuition_fees": "$36,475",
+    "total_enrollment": "6,234"
+  },
+  {
+    "name": "University of Utah",
+    "rank": 115,
+    "acceptance_rate": "81.4%",
+    "graduation_rate": "24%",
+    "average_retention_rate": "88%",
+    "tuition_fees": "$26,177 (out-of-state), $8,239 (in-state)",
+    "total_enrollment": "23,907"
+  },
+  {
+    "name": "University of Arizona",
+    "rank": 121,
+    "acceptance_rate": "74.6%",
+    "graduation_rate": "40%",
+    "average_retention_rate": "80%",
+    "tuition_fees": "$30,025 (out-of-state), $10,872 (in-state)",
+    "total_enrollment": "32,987"
+  },
+  {
+    "name": "University of California--Riverside",
+    "rank": 121,
+    "acceptance_rate": "58.3%",
+    "graduation_rate": "44%",
+    "average_retention_rate": "89%",
+    "tuition_fees": "$40,973 (out-of-state), $14,050 (in-state)",
+    "total_enrollment": "18,782"
+  },
+  {
+    "name": "The Catholic University of America",
+    "rank": 123,
+    "acceptance_rate": "74.7%",
+    "graduation_rate": "60%",
+    "average_retention_rate": "82%",
+    "tuition_fees": "$40,932",
+    "total_enrollment": "3,572"
+  },
+  {
+    "name": "DePaul University",
+    "rank": 123,
+    "acceptance_rate": "69.9%",
+    "graduation_rate": "56%",
+    "average_retention_rate": "86%",
+    "tuition_fees": "$36,361",
+    "total_enrollment": "16,153"
+  },
+  {
+    "name": "Michigan Technological University",
+    "rank": 123,
+    "acceptance_rate": "75.5%",
+    "graduation_rate": "25%",
+    "average_retention_rate": "83%",
+    "tuition_fees": "$29,520 (out-of-state), $14,040 (in-state)",
+    "total_enrollment": "5,662"
+  },
+  {
+    "name": "Seton Hall University",
+    "rank": 123,
+    "acceptance_rate": "75.5%",
+    "graduation_rate": "56%",
+    "average_retention_rate": "84%",
+    "tuition_fees": "$36,926",
+    "total_enrollment": "5,817"
+  },
+  {
+    "name": "Colorado State University",
+    "rank": 127,
+    "acceptance_rate": "80.5%",
+    "graduation_rate": "39%",
+    "average_retention_rate": "85%",
+    "tuition_fees": "$27,258 (out-of-state), $10,590 (in-state)",
+    "total_enrollment": "23,858"
+  },
+  {
+    "name": "New School",
+    "rank": 127,
+    "acceptance_rate": "65.9%",
+    "graduation_rate": "48%",
+    "average_retention_rate": "83%",
+    "tuition_fees": "$42,977",
+    "total_enrollment": "6,695"
+  },
+  {
+    "name": "Arizona State University--Tempe",
+    "rank": 129,
+    "acceptance_rate": "84.3%",
+    "graduation_rate": "43%",
+    "average_retention_rate": "84%",
+    "tuition_fees": "$24,503 (out-of-state), $10,127 (in-state)",
+    "total_enrollment": "39,968"
+  },
+  {
+    "name": "Louisiana State University--Baton Rouge",
+    "rank": 129,
+    "acceptance_rate": "76.6%",
+    "graduation_rate": "39%",
+    "average_retention_rate": "84%",
+    "tuition_fees": "$26,467 (out-of-state), $8,750 (in-state)",
+    "total_enrollment": "25,572"
+  },
+  {
+    "name": "University at Albany--SUNY",
+    "rank": 129,
+    "acceptance_rate": "55.8%",
+    "graduation_rate": "54%",
+    "average_retention_rate": "83%",
+    "tuition_fees": "$22,116 (out-of-state), $8,996 (in-state)",
+    "total_enrollment": "12,929"
+  },
+  {
+    "name": "University of Arkansas",
+    "rank": 129,
+    "acceptance_rate": "62%",
+    "graduation_rate": "37%",
+    "average_retention_rate": "82%",
+    "tuition_fees": "$23,320 (out-of-state), $8,522 (in-state)",
+    "total_enrollment": "21,836"
+  },
+  {
+    "name": "University of Illinois--Chicago",
+    "rank": 129,
+    "acceptance_rate": "72.7%",
+    "graduation_rate": "33%",
+    "average_retention_rate": "79%",
+    "tuition_fees": "$26,526 (out-of-state), $13,670 (in-state)",
+    "total_enrollment": "16,707"
+  },
+  {
+    "name": "University of Kentucky",
+    "rank": 129,
+    "acceptance_rate": "72.2%",
+    "graduation_rate": "33%",
+    "average_retention_rate": "82%",
+    "tuition_fees": "$24,268 (out-of-state), $10,936 (in-state)",
+    "total_enrollment": "22,223"
+  },
+  {
+    "name": "George Mason University",
+    "rank": 135,
+    "acceptance_rate": "66.7%",
+    "graduation_rate": "44%",
+    "average_retention_rate": "87%",
+    "tuition_fees": "$31,598 (out-of-state), $10,952 (in-state)",
+    "total_enrollment": "22,343"
+  },
+  {
+    "name": "Hofstra University",
+    "rank": 135,
+    "acceptance_rate": "61.6%",
+    "graduation_rate": "50%",
+    "average_retention_rate": "79%",
+    "tuition_fees": "$40,460",
+    "total_enrollment": "6,904"
+  },
+  {
+    "name": "Howard University",
+    "rank": 135,
+    "acceptance_rate": "48.4%",
+    "graduation_rate": "42%",
+    "average_retention_rate": "82%",
+    "tuition_fees": "$23,970",
+    "total_enrollment": "7,013"
+  },
+  {
+    "name": "Ohio University",
+    "rank": 135,
+    "acceptance_rate": "74.3%",
+    "graduation_rate": "49%",
+    "average_retention_rate": "80%",
+    "tuition_fees": "$20,512 (out-of-state), $11,548 (in-state)",
+    "total_enrollment": "23,571"
+  },
+  {
+    "name": "Oregon State University",
+    "rank": 135,
+    "acceptance_rate": "77.8%",
+    "graduation_rate": "31%",
+    "average_retention_rate": "83%",
+    "tuition_fees": "$28,767 (out-of-state), $10,107 (in-state)",
+    "total_enrollment": "23,903"
+  },
+  {
+    "name": "New Jersey Institute of Technology",
+    "rank": 140,
+    "acceptance_rate": "63.5%",
+    "graduation_rate": "24%",
+    "average_retention_rate": "84%",
+    "tuition_fees": "$29,288 (out-of-state), $15,648 (in-state)",
+    "total_enrollment": "7,550"
+  },
+  {
+    "name": "Rutgers, The State University of New Jersey--Newark",
+    "rank": 140,
+    "acceptance_rate": "62.8%",
+    "graduation_rate": "37%",
+    "average_retention_rate": "85%",
+    "tuition_fees": "$28,987 (out-of-state), $13,597 (in-state)",
+    "total_enrollment": "7,408"
+  },
+  {
+    "name": "University of Cincinnati",
+    "rank": 140,
+    "acceptance_rate": "76%",
+    "graduation_rate": "28%",
+    "average_retention_rate": "86%",
+    "tuition_fees": "$26,334 (out-of-state), $11,000 (in-state)",
+    "total_enrollment": "24,407"
+  },
+  {
+    "name": "University of Mississippi",
+    "rank": 140,
+    "acceptance_rate": "81.2%",
+    "graduation_rate": "37%",
+    "average_retention_rate": "83%",
+    "tuition_fees": "$20,674 (out-of-state), $7,444 (in-state)",
+    "total_enrollment": "18,101"
+  },
+  {
+    "name": "University of Texas--Dallas",
+    "rank": 140,
+    "acceptance_rate": "61.9%",
+    "graduation_rate": "51%",
+    "average_retention_rate": "86%",
+    "tuition_fees": "$31,328 (out-of-state), $11,806 (in-state)",
+    "total_enrollment": "14,300"
+  },
+  {
+    "name": "Washington State University",
+    "rank": 140,
+    "acceptance_rate": "80.3%",
+    "graduation_rate": "42%",
+    "average_retention_rate": "82%",
+    "tuition_fees": "$25,567 (out-of-state), $12,485 (in-state)",
+    "total_enrollment": "23,867"
+  },
+  {
+    "name": "Kansas State University",
+    "rank": 146,
+    "acceptance_rate": "94.9%",
+    "graduation_rate": "28%",
+    "average_retention_rate": "82%",
+    "tuition_fees": "$22,624 (out-of-state), $9,034 (in-state)",
+    "total_enrollment": "20,327"
+  },
+  {
+    "name": "Missouri University of Science & Technology",
+    "rank": 146,
+    "acceptance_rate": "85.9%",
+    "graduation_rate": "23%",
+    "average_retention_rate": "84%",
+    "tuition_fees": "$26,152 (out-of-state), $9,628 (in-state)",
+    "total_enrollment": "6,522"
+  },
+  {
+    "name": "St. John Fisher College",
+    "rank": 146,
+    "acceptance_rate": "67.9%",
+    "graduation_rate": "60%",
+    "average_retention_rate": "85%",
+    "tuition_fees": "$30,690",
+    "total_enrollment": "2,857"
+  },
+  {
+    "name": "Illinois State University",
+    "rank": 149,
+    "acceptance_rate": "73.9%",
+    "graduation_rate": "46%",
+    "average_retention_rate": "83%",
+    "tuition_fees": "$20,420 (out-of-state), $12,830 (in-state)",
+    "total_enrollment": "18,155"
+  },
+  {
+    "name": "Oklahoma State University",
+    "rank": 149,
+    "acceptance_rate": "75%",
+    "graduation_rate": "34%",
+    "average_retention_rate": "80%",
+    "tuition_fees": "$20,027 (out-of-state), $7,442 (in-state)",
+    "total_enrollment": "20,821"
+  },
+  {
+    "name": "San Diego State University",
+    "rank": 149,
+    "acceptance_rate": "34.5%",
+    "graduation_rate": "30%",
+    "average_retention_rate": "89%",
+    "tuition_fees": "$18,136 (out-of-state), $6,976 (in-state)",
+    "total_enrollment": "28,362"
+  },
+  {
+    "name": "University of Alabama--Birmingham",
+    "rank": 149,
+    "acceptance_rate": "85.7%",
+    "graduation_rate": "33%",
+    "average_retention_rate": "81%",
+    "tuition_fees": "$21,220 (out-of-state), $9,280 (in-state)",
+    "total_enrollment": "11,679"
+  },
+  {
+    "name": "Adelphi University",
+    "rank": 153,
+    "acceptance_rate": "72.4%",
+    "graduation_rate": "54%",
+    "average_retention_rate": "82%",
+    "tuition_fees": "$34,034",
+    "total_enrollment": "5,071"
+  },
+  {
+    "name": "Southern Illinois University--Carbondale",
+    "rank": 153,
+    "acceptance_rate": "81.7%",
+    "graduation_rate": "25%",
+    "average_retention_rate": "64%",
+    "tuition_fees": "$26,390 (out-of-state), $13,137 (in-state)",
+    "total_enrollment": "13,461"
+  },
+  {
+    "name": "St. John's University",
+    "rank": 153,
+    "acceptance_rate": "62.5%",
+    "graduation_rate": "40%",
+    "average_retention_rate": "79%",
+    "tuition_fees": "$38,680",
+    "total_enrollment": "15,765"
+  },
+  {
+    "name": "University of Maryland--Baltimore County",
+    "rank": 156,
+    "acceptance_rate": "59.6%",
+    "graduation_rate": "34%",
+    "average_retention_rate": "87%",
+    "tuition_fees": "$23,770 (out-of-state), $11,006 (in-state)",
+    "total_enrollment": "11,379"
+  },
+  {
+    "name": "University of Massachusetts--Lowell",
+    "rank": 156,
+    "acceptance_rate": "62%",
+    "graduation_rate": "27%",
+    "average_retention_rate": "82%",
+    "tuition_fees": "$27,400 (out-of-state), $12,447 (in-state)",
+    "total_enrollment": "12,986"
+  },
+  {
+    "name": "University of South Florida",
+    "rank": 156,
+    "acceptance_rate": "47.5%",
+    "graduation_rate": "39%",
+    "average_retention_rate": "89%",
+    "tuition_fees": "$17,325 (out-of-state), $6,410 (in-state)",
+    "total_enrollment": "31,067"
+  },
+  {
+    "name": "Virginia Commonwealth University",
+    "rank": 156,
+    "acceptance_rate": "68.9%",
+    "graduation_rate": "34%",
+    "average_retention_rate": "86%",
+    "tuition_fees": "$30,838 (out-of-state), $12,772 (in-state)",
+    "total_enrollment": "23,962"
+  },
+  {
+    "name": "University of La Verne",
+    "rank": 160,
+    "acceptance_rate": "46.6%",
+    "graduation_rate": "41%",
+    "average_retention_rate": "86%",
+    "tuition_fees": "$38,560",
+    "total_enrollment": "2,713"
+  },
+  {
+    "name": "Biola University",
+    "rank": 161,
+    "acceptance_rate": "75.4%",
+    "graduation_rate": "53%",
+    "average_retention_rate": "86%",
+    "tuition_fees": "$34,498",
+    "total_enrollment": "4,373"
+  },
+  {
+    "name": "Florida Institute of Technology",
+    "rank": 161,
+    "acceptance_rate": "61.6%",
+    "graduation_rate": "39%",
+    "average_retention_rate": "79%",
+    "tuition_fees": "$39,290",
+    "total_enrollment": "3,636"
+  },
+  {
+    "name": "Immaculata University",
+    "rank": 161,
+    "acceptance_rate": "75.9%",
+    "graduation_rate": "51%",
+    "average_retention_rate": "81%",
+    "tuition_fees": "$33,280",
+    "total_enrollment": "2,138"
+  },
+  {
+    "name": "Maryville University of St. Louis",
+    "rank": 161,
+    "acceptance_rate": "72%",
+    "graduation_rate": "49%",
+    "average_retention_rate": "86%",
+    "tuition_fees": "$26,958",
+    "total_enrollment": "2,818"
+  },
+  {
+    "name": "Mississippi State University",
+    "rank": 161,
+    "acceptance_rate": "71%",
+    "graduation_rate": "N/A",
+    "average_retention_rate": "81%",
+    "tuition_fees": "$20,142 (out-of-state), $7,502 (in-state)",
+    "total_enrollment": "16,536"
+  },
+  {
+    "name": "University of Hawaii--Manoa",
+    "rank": 161,
+    "acceptance_rate": "77.9%",
+    "graduation_rate": "20%",
+    "average_retention_rate": "79%",
+    "tuition_fees": "$31,516 (out-of-state), $11,404 (in-state)",
+    "total_enrollment": "14,126"
+  },
+  {
+    "name": "University of Rhode Island",
+    "rank": 161,
+    "acceptance_rate": "75.7%",
+    "graduation_rate": "39%",
+    "average_retention_rate": "82%",
+    "tuition_fees": "$28,072 (out-of-state), $12,506 (in-state)",
+    "total_enrollment": "13,589"
+  },
+  {
+    "name": "Ball State University",
+    "rank": 168,
+    "acceptance_rate": "59.9%",
+    "graduation_rate": "37%",
+    "average_retention_rate": "79%",
+    "tuition_fees": "$25,348 (out-of-state), $9,624 (in-state)",
+    "total_enrollment": "16,415"
+  },
+  {
+    "name": "Texas Tech University",
+    "rank": 168,
+    "acceptance_rate": "66.1%",
+    "graduation_rate": "33%",
+    "average_retention_rate": "82%",
+    "tuition_fees": "$21,267 (out-of-state), $9,567 (in-state)",
+    "total_enrollment": "28,632"
+  },
+  {
+    "name": "University of Central Florida",
+    "rank": 168,
+    "acceptance_rate": "49.6%",
+    "graduation_rate": "40%",
+    "average_retention_rate": "88%",
+    "tuition_fees": "$22,467 (out-of-state), $6,368 (in-state)",
+    "total_enrollment": "52,532"
+  },
+  {
+    "name": "University of Idaho",
+    "rank": 168,
+    "acceptance_rate": "67.5%",
+    "graduation_rate": "28%",
+    "average_retention_rate": "78%",
+    "tuition_fees": "$21,024 (out-of-state), $7,020 (in-state)",
+    "total_enrollment": "9,388"
+  },
+  {
+    "name": "University of Louisville",
+    "rank": 168,
+    "acceptance_rate": "71.9%",
+    "graduation_rate": "25%",
+    "average_retention_rate": "79%",
+    "tuition_fees": "$24,626 (out-of-state), $10,738 (in-state)",
+    "total_enrollment": "15,962"
+  },
+  {
+    "name": "University of Maine",
+    "rank": 168,
+    "acceptance_rate": "82.6%",
+    "graduation_rate": "37%",
+    "average_retention_rate": "78%",
+    "tuition_fees": "$28,880 (out-of-state), $10,610 (in-state)",
+    "total_enrollment": "9,339"
+  },
+  {
+    "name": "University of Wyoming",
+    "rank": 168,
+    "acceptance_rate": "97.7%",
+    "graduation_rate": "24%",
+    "average_retention_rate": "75%",
+    "tuition_fees": "$15,632 (out-of-state), $4,892 (in-state)",
+    "total_enrollment": "10,124"
+  },
+  {
+    "name": "Andrews University",
+    "rank": 175,
+    "acceptance_rate": "37.3%",
+    "graduation_rate": "33%",
+    "average_retention_rate": "79%",
+    "tuition_fees": "$27,000",
+    "total_enrollment": "1,805"
+  },
+  {
+    "name": "Azusa Pacific University",
+    "rank": 175,
+    "acceptance_rate": "81.8%",
+    "graduation_rate": "47%",
+    "average_retention_rate": "85%",
+    "tuition_fees": "$34,754",
+    "total_enrollment": "5,918"
+  },
+  {
+    "name": "Edgewood College",
+    "rank": 175,
+    "acceptance_rate": "76.2%",
+    "graduation_rate": "36%",
+    "average_retention_rate": "81%",
+    "tuition_fees": "$26,550",
+    "total_enrollment": "1,935"
+  },
+  {
+    "name": "Kent State University",
+    "rank": 175,
+    "acceptance_rate": "84.4%",
+    "graduation_rate": "31%",
+    "average_retention_rate": "78%",
+    "tuition_fees": "$18,212 (out-of-state), $10,012 (in-state)",
+    "total_enrollment": "23,328"
+  },
+  {
+    "name": "West Virginia University",
+    "rank": 175,
+    "acceptance_rate": "85.8%",
+    "graduation_rate": "33%",
+    "average_retention_rate": "77%",
+    "tuition_fees": "$20,424 (out-of-state), $6,960 (in-state)",
+    "total_enrollment": "22,563"
+  },
+  {
+    "name": "Pace University",
+    "rank": 180,
+    "acceptance_rate": "85%",
+    "graduation_rate": "36%",
+    "average_retention_rate": "77%",
+    "tuition_fees": "$41,325",
+    "total_enrollment": "8,694"
+  },
+  {
+    "name": "St. Mary's University of Minnesota",
+    "rank": 180,
+    "acceptance_rate": "74.2%",
+    "graduation_rate": "55%",
+    "average_retention_rate": "78%",
+    "tuition_fees": "$31,335",
+    "total_enrollment": "1,904"
+  },
+  {
+    "name": "University of New Mexico",
+    "rank": 180,
+    "acceptance_rate": "46.1%",
+    "graduation_rate": "15%",
+    "average_retention_rate": "77%",
+    "tuition_fees": "$20,664 (out-of-state), $6,846 (in-state)",
+    "total_enrollment": "20,857"
+  },
+  {
+    "name": "University of North Dakota",
+    "rank": 180,
+    "acceptance_rate": "86%",
+    "graduation_rate": "23%",
+    "average_retention_rate": "77%",
+    "tuition_fees": "$18,409 (out-of-state), $7,741 (in-state)",
+    "total_enrollment": "11,537"
+  },
+  {
+    "name": "University of South Dakota",
+    "rank": 180,
+    "acceptance_rate": "88.8%",
+    "graduation_rate": "33%",
+    "average_retention_rate": "76%",
+    "tuition_fees": "$10,426 (out-of-state), $8,455 (in-state)",
+    "total_enrollment": "7,541"
+  },
+  {
+    "name": "Bowling Green State University",
+    "rank": 185,
+    "acceptance_rate": "53.4%",
+    "graduation_rate": "32%",
+    "average_retention_rate": "72%",
+    "tuition_fees": "$18,034 (out-of-state), $10,726 (in-state)",
+    "total_enrollment": "14,099"
+  },
+  {
+    "name": "North Dakota State University",
+    "rank": 185,
+    "acceptance_rate": "82.7%",
+    "graduation_rate": "25%",
+    "average_retention_rate": "79%",
+    "tuition_fees": "$11,169 (out-of-state), $7,820 (in-state)",
+    "total_enrollment": "12,124"
+  },
+  {
+    "name": "South Dakota State University",
+    "rank": 187,
+    "acceptance_rate": "92%",
+    "graduation_rate": "N/A",
+    "average_retention_rate": "75%",
+    "tuition_fees": "$10,520 (out-of-state), $8,349 (in-state)",
+    "total_enrollment": "10,951"
+  },
+  {
+    "name": "University of Alabama--Huntsville",
+    "rank": 187,
+    "acceptance_rate": "82%",
+    "graduation_rate": "15%",
+    "average_retention_rate": "79%",
+    "tuition_fees": "$20,622 (out-of-state), $9,128 (in-state)",
+    "total_enrollment": "5,618"
+  },
+  {
+    "name": "University of Houston",
+    "rank": 187,
+    "acceptance_rate": "63%",
+    "graduation_rate": "18%",
+    "average_retention_rate": "84%",
+    "tuition_fees": "$24,378 (out-of-state), $10,518 (in-state)",
+    "total_enrollment": "32,915"
+  },
+  {
+    "name": "University of Nevada--Reno",
+    "rank": 187,
+    "acceptance_rate": "83.9%",
+    "graduation_rate": "21%",
+    "average_retention_rate": "80%",
+    "tuition_fees": "$20,812 (out-of-state), $6,902 (in-state)",
+    "total_enrollment": "16,839"
+  },
+  {
+    "name": "University of North Carolina--Greensboro",
+    "rank": 187,
+    "acceptance_rate": "60%",
+    "graduation_rate": "31%",
+    "average_retention_rate": "76%",
+    "tuition_fees": "$21,595 (out-of-state), $6,733 (in-state)",
+    "total_enrollment": "15,173"
+  },
+  {
+    "name": "Western Michigan University",
+    "rank": 187,
+    "acceptance_rate": "84.1%",
+    "graduation_rate": "23%",
+    "average_retention_rate": "75%",
+    "tuition_fees": "$24,917 (out-of-state), $10,685 (in-state)",
+    "total_enrollment": "18,889"
+  },
+  {
+    "name": "Widener University",
+    "rank": 187,
+    "acceptance_rate": "65%",
+    "graduation_rate": "37%",
+    "average_retention_rate": "74%",
+    "tuition_fees": "$41,224",
+    "total_enrollment": "3,437"
+  },
+  {
+    "name": "Central Michigan University",
+    "rank": 194,
+    "acceptance_rate": "69.3%",
+    "graduation_rate": "20%",
+    "average_retention_rate": "76%",
+    "tuition_fees": "$23,670 (out-of-state), $11,850 (in-state)",
+    "total_enrollment": "20,794"
+  },
+  {
+    "name": "East Carolina University",
+    "rank": 194,
+    "acceptance_rate": "77.3%",
+    "graduation_rate": "33%",
+    "average_retention_rate": "80%",
+    "tuition_fees": "$22,124 (out-of-state), $6,550 (in-state)",
+    "total_enrollment": "22,252"
+  },
+  {
+    "name": "South Carolina State University",
+    "rank": 194,
+    "acceptance_rate": "84.5%",
+    "graduation_rate": "15%",
+    "average_retention_rate": "63%",
+    "tuition_fees": "$19,856 (out-of-state), $10,088 (in-state)",
+    "total_enrollment": "2,791"
+  },
+  {
+    "name": "University of Missouri--Kansas City",
+    "rank": 194,
+    "acceptance_rate": "63.7%",
+    "graduation_rate": "25%",
+    "average_retention_rate": "73%",
+    "tuition_fees": "$22,714 (out-of-state), $9,559 (in-state)",
+    "total_enrollment": "10,462"
+  },
+  {
+    "name": "University of North Carolina--Charlotte",
+    "rank": 194,
+    "acceptance_rate": "64.1%",
+    "graduation_rate": "26%",
+    "average_retention_rate": "79%",
+    "tuition_fees": "$19,555 (out-of-state), $6,384 (in-state)",
+    "total_enrollment": "22,216"
+  },
+  {
+    "name": "Ashland University",
+    "rank": 199,
+    "acceptance_rate": "71.9%",
+    "graduation_rate": "42%",
+    "average_retention_rate": "74%",
+    "tuition_fees": "$20,242",
+    "total_enrollment": "3,768"
+  },
+  {
+    "name": "Indiana University-Purdue University--Indianapolis",
+    "rank": 199,
+    "acceptance_rate": "70.5%",
+    "graduation_rate": "18%",
+    "average_retention_rate": "72%",
+    "tuition_fees": "$29,774 (out-of-state), $9,056 (in-state)",
+    "total_enrollment": "22,525"
+  },
+  {
+    "name": "Louisiana Tech University",
+    "rank": 199,
+    "acceptance_rate": "65%",
+    "graduation_rate": "30%",
+    "average_retention_rate": "78%",
+    "tuition_fees": "$25,851 (out-of-state), $8,853 (in-state)",
+    "total_enrollment": "9,532"
+  },
+  {
+    "name": "New Mexico State University",
+    "rank": 199,
+    "acceptance_rate": "69.6%",
+    "graduation_rate": "16%",
+    "average_retention_rate": "73%",
+    "tuition_fees": "$21,234 (out-of-state), $6,729 (in-state)",
+    "total_enrollment": "12,784"
+  },
+  {
+    "name": "University of Colorado--Denver",
+    "rank": 199,
+    "acceptance_rate": "73%",
+    "graduation_rate": "15%",
+    "average_retention_rate": "74%",
+    "tuition_fees": "$29,334 (out-of-state), $10,404 (in-state)",
+    "total_enrollment": "13,509"
+  },
+  {
+    "name": "Barry University",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "46.1%",
+    "graduation_rate": "N/A",
+    "average_retention_rate": "58%",
+    "tuition_fees": "$28,160",
+    "total_enrollment": "3,996"
+  },
+  {
+    "name": "Benedictine University",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "77.2%",
+    "graduation_rate": "32%",
+    "average_retention_rate": "75%",
+    "tuition_fees": "$26,950",
+    "total_enrollment": "3,818"
+  },
+  {
+    "name": "Bowie State University",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "53.6%",
+    "graduation_rate": "N/A",
+    "average_retention_rate": "73%",
+    "tuition_fees": "$18,140 (out-of-state), $7,657 (in-state)",
+    "total_enrollment": "4,456"
+  },
+  {
+    "name": "Cardinal Stritch University",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "83%",
+    "graduation_rate": "19%",
+    "average_retention_rate": "69%",
+    "tuition_fees": "$27,540",
+    "total_enrollment": "2,308"
+  },
+  {
+    "name": "Clark Atlanta University",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "84.7%",
+    "graduation_rate": "24%",
+    "average_retention_rate": "63%",
+    "tuition_fees": "$20,886",
+    "total_enrollment": "2,567"
+  },
+  {
+    "name": "Cleveland State University",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "67.1%",
+    "graduation_rate": "18:1",
+    "average_retention_rate": "67%",
+    "tuition_fees": "$13,156 (out-of-state), $9,848 (in-state)",
+    "total_enrollment": "12,194"
+  },
+  {
+    "name": "East Tennessee State University",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "91.7%",
+    "graduation_rate": "20%",
+    "average_retention_rate": "68%",
+    "tuition_fees": "$17,917 (out-of-state), $7,985 (in-state)",
+    "total_enrollment": "11,550"
+  },
+  {
+    "name": "Florida A&M University",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "49%",
+    "graduation_rate": "12%",
+    "average_retention_rate": "81%",
+    "tuition_fees": "$17,726 (out-of-state), $5,784 (in-state)",
+    "total_enrollment": "8,495"
+  },
+  {
+    "name": "Florida Atlantic University",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "66%",
+    "graduation_rate": "16%",
+    "average_retention_rate": "77%",
+    "tuition_fees": "$21,595 (out-of-state), $6,039 (in-state)",
+    "total_enrollment": "25,209"
+  },
+  {
+    "name": "Florida International University",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "47.6%",
+    "graduation_rate": "24%",
+    "average_retention_rate": "83%",
+    "tuition_fees": "$18,895 (out-of-state), $6,496 (in-state)",
+    "total_enrollment": "40,974"
+  },
+  {
+    "name": "Georgia Southern University",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "63.1%",
+    "graduation_rate": "27%",
+    "average_retention_rate": "80%",
+    "tuition_fees": "$20,536 (out-of-state), $7,318 (in-state)",
+    "total_enrollment": "18,004"
+  },
+  {
+    "name": "Georgia State University",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "57.1%",
+    "graduation_rate": "22%",
+    "average_retention_rate": "83%",
+    "tuition_fees": "$28,896 (out-of-state), $10,686 (in-state)",
+    "total_enrollment": "25,315"
+  },
+  {
+    "name": "Indiana State University",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "82.5%",
+    "graduation_rate": "20%",
+    "average_retention_rate": "62%",
+    "tuition_fees": "$18,346 (out-of-state), $8,416 (in-state)",
+    "total_enrollment": "10,881"
+  },
+  {
+    "name": "Indiana University of Pennsylvania",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "94.7%",
+    "graduation_rate": "34%",
+    "average_retention_rate": "75%",
+    "tuition_fees": "$19,700 (out-of-state), $9,470 (in-state)",
+    "total_enrollment": "12,130"
+  },
+  {
+    "name": "Jackson State University",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "26.1%",
+    "graduation_rate": "19%",
+    "average_retention_rate": "78%",
+    "tuition_fees": "$16,174 (out-of-state), $6,602 (in-state)",
+    "total_enrollment": "7,199"
+  },
+  {
+    "name": "Lamar University",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "78.4%",
+    "graduation_rate": "11%",
+    "average_retention_rate": "59%",
+    "tuition_fees": "$21,421 (out-of-state), $9,721 (in-state)",
+    "total_enrollment": "9,279"
+  },
+  {
+    "name": "Lynn University",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "74.9%",
+    "graduation_rate": "33%",
+    "average_retention_rate": "67%",
+    "tuition_fees": "$35,200",
+    "total_enrollment": "1,976"
+  },
+  {
+    "name": "Middle Tennessee State University",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "72.1%",
+    "graduation_rate": "20%",
+    "average_retention_rate": "70%",
+    "tuition_fees": "$24,434 (out-of-state), $7,370 (in-state)",
+    "total_enrollment": "20,262"
+  },
+  {
+    "name": "Montana State University",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "83.9%",
+    "graduation_rate": "20%",
+    "average_retention_rate": "75%",
+    "tuition_fees": "$21,961 (out-of-state), $6,968 (in-state)",
+    "total_enrollment": "13,371"
+  },
+  {
+    "name": "Morgan State University",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "65.3%",
+    "graduation_rate": "12%",
+    "average_retention_rate": "74%",
+    "tuition_fees": "$16,862 (out-of-state), $7,378 (in-state)",
+    "total_enrollment": "6,302"
+  },
+  {
+    "name": "National Louis University",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "N/A",
+    "graduation_rate": "N/A",
+    "average_retention_rate": "72%",
+    "tuition_fees": "$12,867",
+    "total_enrollment": "N/A"
+  },
+  {
+    "name": "North Carolina A&T State University",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "57.6%",
+    "graduation_rate": "19%",
+    "average_retention_rate": "77%",
+    "tuition_fees": "$18,632 (out-of-state), $5,872 (in-state)",
+    "total_enrollment": "9,203"
+  },
+  {
+    "name": "Northern Arizona University",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "90.5%",
+    "graduation_rate": "33%",
+    "average_retention_rate": "74%",
+    "tuition_fees": "$23,348 (out-of-state), $10,358 (in-state)",
+    "total_enrollment": "23,845"
+  },
+  {
+    "name": "Northern Illinois University",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "50.9%",
+    "graduation_rate": "25%",
+    "average_retention_rate": "70%",
+    "tuition_fees": "$23,891 (out-of-state), $14,426 (in-state)",
+    "total_enrollment": "15,435"
+  },
+  {
+    "name": "Nova Southeastern University",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "48.8%",
+    "graduation_rate": "32%",
+    "average_retention_rate": "72%",
+    "tuition_fees": "$27,660",
+    "total_enrollment": "4,699"
+  },
+  {
+    "name": "Oakland University",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "67.4%",
+    "graduation_rate": "16%",
+    "average_retention_rate": "75%",
+    "tuition_fees": "$24,735 (out-of-state), $11,460 (in-state)",
+    "total_enrollment": "16,935"
+  },
+  {
+    "name": "Old Dominion University",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "81.9%",
+    "graduation_rate": "24%",
+    "average_retention_rate": "80%",
+    "tuition_fees": "$26,538 (out-of-state), N/A (in-state)",
+    "total_enrollment": "20,115"
+  },
+  {
+    "name": "Our Lady of the Lake University",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "49.5%",
+    "graduation_rate": "22%",
+    "average_retention_rate": "63%",
+    "tuition_fees": "$26,148",
+    "total_enrollment": "1,595"
+  },
+  {
+    "name": "Portland State University",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "84.8%",
+    "graduation_rate": "12%",
+    "average_retention_rate": "73%",
+    "tuition_fees": "$23,319 (out-of-state), $7,794 (in-state)",
+    "total_enrollment": "22,136"
+  },
+  {
+    "name": "Regent University",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "80.3%",
+    "graduation_rate": "29%",
+    "average_retention_rate": "77%",
+    "tuition_fees": "$16,638",
+    "total_enrollment": "2,410"
+  },
+  {
+    "name": "Sam Houston State University",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "73.7%",
+    "graduation_rate": "29%",
+    "average_retention_rate": "76%",
+    "tuition_fees": "$21,037 (out-of-state), $9,337 (in-state)",
+    "total_enrollment": "16,819"
+  },
+  {
+    "name": "Spalding University",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "81.1%",
+    "graduation_rate": "N/A",
+    "average_retention_rate": "73%",
+    "tuition_fees": "$22,950",
+    "total_enrollment": "N/A"
+  },
+  {
+    "name": "Tennessee State University",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "53%",
+    "graduation_rate": "N/A",
+    "average_retention_rate": "62%",
+    "tuition_fees": "$21,287 (out-of-state), $7,128 (in-state)",
+    "total_enrollment": "7,073"
+  },
+  {
+    "name": "Texas A&M University--Commerce",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "47.8%",
+    "graduation_rate": "31%",
+    "average_retention_rate": "69%",
+    "tuition_fees": "$19,132 (out-of-state), $7,432 (in-state)",
+    "total_enrollment": "7,148"
+  },
+  {
+    "name": "Texas A&M University--Corpus Christi",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "60.6%",
+    "graduation_rate": "19%",
+    "average_retention_rate": "58%",
+    "tuition_fees": "$20,208 (out-of-state), $8,620 (in-state)",
+    "total_enrollment": "9,058"
+  },
+  {
+    "name": "Texas A&M University--Kingsville",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "83.5%",
+    "graduation_rate": "17%",
+    "average_retention_rate": "62%",
+    "tuition_fees": "$18,294 (out-of-state), $7,434 (in-state)",
+    "total_enrollment": "6,302"
+  },
+  {
+    "name": "Texas Southern University",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "51.3%",
+    "graduation_rate": "3%",
+    "average_retention_rate": "58%",
+    "tuition_fees": "$18,986 (out-of-state), $8,126 (in-state)",
+    "total_enrollment": "6,915"
+  },
+  {
+    "name": "Texas Woman's University",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "85.3%",
+    "graduation_rate": "24%",
+    "average_retention_rate": "69%",
+    "tuition_fees": "$20,222 (out-of-state), $8,522 (in-state)",
+    "total_enrollment": "9,679"
+  },
+  {
+    "name": "Trevecca Nazarene University",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "73.1%",
+    "graduation_rate": "39%",
+    "average_retention_rate": "74%",
+    "tuition_fees": "$23,748",
+    "total_enrollment": "1,677"
+  },
+  {
+    "name": "Trinity International University",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "97%",
+    "graduation_rate": "36%",
+    "average_retention_rate": "73%",
+    "tuition_fees": "$28,700",
+    "total_enrollment": "1,099"
+  },
+  {
+    "name": "University of Akron",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "95.7%",
+    "graduation_rate": "14%",
+    "average_retention_rate": "70%",
+    "tuition_fees": "$19,040 (out-of-state), $10,509 (in-state)",
+    "total_enrollment": "19,723"
+  },
+  {
+    "name": "University of Alaska--Fairbanks",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "73.9%",
+    "graduation_rate": "15%",
+    "average_retention_rate": "76%",
+    "tuition_fees": "$21,350 (out-of-state), $7,370 (in-state)",
+    "total_enrollment": "7,563"
+  },
+  {
+    "name": "University of Arkansas--Little Rock",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "62%",
+    "graduation_rate": "8%",
+    "average_retention_rate": "78%",
+    "tuition_fees": "$19,235 (out-of-state), $8,165 (in-state)",
+    "total_enrollment": "9,384"
+  },
+  {
+    "name": "University of Louisiana--Lafayette",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "55.8%",
+    "graduation_rate": "15%",
+    "average_retention_rate": "75%",
+    "tuition_fees": "$19,348 (out-of-state), $6,948 (in-state)",
+    "total_enrollment": "15,574"
+  },
+  {
+    "name": "University of Massachusetts--Boston",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "70.8%",
+    "graduation_rate": "16%",
+    "average_retention_rate": "78%",
+    "tuition_fees": "$28,390 (out-of-state), $11,966 (in-state)",
+    "total_enrollment": "12,700"
+  },
+  {
+    "name": "University of Memphis",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "48.7%",
+    "graduation_rate": "15%",
+    "average_retention_rate": "77%",
+    "tuition_fees": "$13,275 (out-of-state), $8,903 (in-state)",
+    "total_enrollment": "17,068"
+  },
+  {
+    "name": "University of Missouri--St. Louis",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "75.7%",
+    "graduation_rate": "21%",
+    "average_retention_rate": "78%",
+    "tuition_fees": "$25,512 (out-of-state), $10,065 (in-state)",
+    "total_enrollment": "13,887"
+  },
+  {
+    "name": "University of Montana",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "94.2%",
+    "graduation_rate": "25%",
+    "average_retention_rate": "73%",
+    "tuition_fees": "$23,845 (out-of-state), $6,389 (in-state)",
+    "total_enrollment": "9,447"
+  },
+  {
+    "name": "University of Nebraska--Omaha",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "78.5%",
+    "graduation_rate": "16%",
+    "average_retention_rate": "74%",
+    "tuition_fees": "$18,610 (out-of-state), $6,898 (in-state)",
+    "total_enrollment": "12,221"
+  },
+  {
+    "name": "University of Nevada--Las Vegas",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "86.9%",
+    "graduation_rate": "14%",
+    "average_retention_rate": "77%",
+    "tuition_fees": "$20,852 (out-of-state), $6,943 (in-state)",
+    "total_enrollment": "23,813"
+  },
+  {
+    "name": "University of New Orleans",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "43.7%",
+    "graduation_rate": "13%",
+    "average_retention_rate": "67%",
+    "tuition_fees": "$21,092 (out-of-state), $7,482 (in-state)",
+    "total_enrollment": "7,152"
+  },
+  {
+    "name": "University of Northern Colorado",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "70.9%",
+    "graduation_rate": "27%",
+    "average_retention_rate": "68%",
+    "tuition_fees": "$19,277 (out-of-state), $7,733 (in-state)",
+    "total_enrollment": "9,424"
+  },
+  {
+    "name": "University of North Texas",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "62.1%",
+    "graduation_rate": "26%",
+    "average_retention_rate": "77%",
+    "tuition_fees": "$21,791 (out-of-state), $10,091 (in-state)",
+    "total_enrollment": "29,723"
+  },
+  {
+    "name": "University of South Alabama",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "83.5%",
+    "graduation_rate": "15%",
+    "average_retention_rate": "68%",
+    "tuition_fees": "$17,628 (out-of-state), $9,026 (in-state)",
+    "total_enrollment": "11,479"
+  },
+  {
+    "name": "University of Southern Mississippi",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "66.7%",
+    "graduation_rate": "25%",
+    "average_retention_rate": "73%",
+    "tuition_fees": "$16,094 (out-of-state), $7,224 (in-state)",
+    "total_enrollment": "12,005"
+  },
+  {
+    "name": "University of Texas--Arlington",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "61.4%",
+    "graduation_rate": "18%",
+    "average_retention_rate": "74%",
+    "tuition_fees": "$18,102 (out-of-state), $8,878 (in-state)",
+    "total_enrollment": "29,883"
+  },
+  {
+    "name": "University of Texas--El Paso",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "99.9%",
+    "graduation_rate": "N/A",
+    "average_retention_rate": "74%",
+    "tuition_fees": "$18,759 (out-of-state), $7,058 (in-state)",
+    "total_enrollment": "19,817"
+  },
+  {
+    "name": "University of Texas--San Antonio",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "75.9%",
+    "graduation_rate": "11%",
+    "average_retention_rate": "63%",
+    "tuition_fees": "$20,890 (out-of-state), $8,737 (in-state)",
+    "total_enrollment": "24,285"
+  },
+  {
+    "name": "University of Toledo",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "94.7%",
+    "graduation_rate": "21%",
+    "average_retention_rate": "66%",
+    "tuition_fees": "$18,906 (out-of-state), $9,568 (in-state)",
+    "total_enrollment": "16,090"
+  },
+  {
+    "name": "University of West Florida",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "41.7%",
+    "graduation_rate": "27%",
+    "average_retention_rate": "72%",
+    "tuition_fees": "$21,838 (out-of-state), $8,956 (in-state)",
+    "total_enrollment": "10,072"
+  },
+  {
+    "name": "University of Wisconsin--Milwaukee",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "74.7%",
+    "graduation_rate": "14%",
+    "average_retention_rate": "70%",
+    "tuition_fees": "$19,610 (out-of-state), $9,882 (in-state)",
+    "total_enrollment": "23,079"
+  },
+  {
+    "name": "Utah State University",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "97.8%",
+    "graduation_rate": "23%",
+    "average_retention_rate": "70%",
+    "tuition_fees": "$19,133 (out-of-state), $6,663 (in-state)",
+    "total_enrollment": "24,271"
+  },
+  {
+    "name": "Wayne State University",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "77.3%",
+    "graduation_rate": "11%",
+    "average_retention_rate": "76%",
+    "tuition_fees": "$26,592 (out-of-state), $12,350 (in-state)",
+    "total_enrollment": "18,347"
+  },
+  {
+    "name": "Wichita State University",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "95.5%",
+    "graduation_rate": "19%",
+    "average_retention_rate": "72%",
+    "tuition_fees": "$16,697 (out-of-state), $7,267 (in-state)",
+    "total_enrollment": "11,979"
+  },
+  {
+    "name": "Wright State University",
+    "rank": "Rank Not Published",
+    "acceptance_rate": "96.8%",
+    "graduation_rate": "21%",
+    "average_retention_rate": "62%",
+    "tuition_fees": "$17,098 (out-of-state), $8,730 (in-state)",
+    "total_enrollment": "12,682"
+  },
+  {
+    "name": "Alliant International University",
+    "rank": "Unranked",
+    "acceptance_rate": "N/A",
+    "graduation_rate": "N/A",
+    "average_retention_rate": "N/A",
+    "tuition_fees": "$19,930",
+    "total_enrollment": "1,450"
+  },
+  {
+    "name": "Argosy University",
+    "rank": "Unranked",
+    "acceptance_rate": "N/A",
+    "graduation_rate": "N/A",
+    "average_retention_rate": "N/A",
+    "tuition_fees": "$13,663",
+    "total_enrollment": "N/A"
+  },
+  {
+    "name": "California Institute of Integral Studies",
+    "rank": "Unranked",
+    "acceptance_rate": "N/A",
+    "graduation_rate": "N/A",
+    "average_retention_rate": "N/A",
+    "tuition_fees": "N/A",
+    "total_enrollment": "N/A"
+  },
+  {
+    "name": "Capella University",
+    "rank": "Unranked",
+    "acceptance_rate": "N/A",
+    "graduation_rate": "N/A",
+    "average_retention_rate": "N/A",
+    "tuition_fees": "$12,816",
+    "total_enrollment": "N/A"
+  },
+  {
+    "name": "Colorado Technical University",
+    "rank": "Unranked",
+    "acceptance_rate": "N/A",
+    "graduation_rate": "N/A",
+    "average_retention_rate": "N/A",
+    "tuition_fees": "$11,327",
+    "total_enrollment": "N/A"
+  },
+  {
+    "name": "Idaho State University",
+    "rank": "Unranked",
+    "acceptance_rate": "N/A",
+    "graduation_rate": "N/A",
+    "average_retention_rate": "N/A",
+    "tuition_fees": "$19,326 (out-of-state), $6,566 (in-state)",
+    "total_enrollment": "N/A"
+  },
+  {
+    "name": "Northcentral University",
+    "rank": "Unranked",
+    "acceptance_rate": "N/A",
+    "graduation_rate": "N/A",
+    "average_retention_rate": "N/A",
+    "tuition_fees": "N/A",
+    "total_enrollment": "N/A"
+  },
+  {
+    "name": "Trident University International",
+    "rank": "Unranked",
+    "acceptance_rate": "N/A",
+    "graduation_rate": "N/A",
+    "average_retention_rate": "N/A",
+    "tuition_fees": "$8,400",
+    "total_enrollment": "N/A"
+  },
+  {
+    "name": "Union Institute and University",
+    "rank": "Unranked",
+    "acceptance_rate": "N/A",
+    "graduation_rate": "N/A",
+    "average_retention_rate": "62%",
+    "tuition_fees": "$11,904",
+    "total_enrollment": "1,085"
+  },
+  {
+    "name": "University of Phoenix",
+    "rank": "Unranked",
+    "acceptance_rate": "N/A",
+    "graduation_rate": "N/A",
+    "average_retention_rate": "N/A",
+    "tuition_fees": "N/A",
+    "total_enrollment": "N/A"
+  },
+  {
+    "name": "Walden University",
+    "rank": "Unranked",
+    "acceptance_rate": "98%",
+    "graduation_rate": "N/A",
+    "average_retention_rate": "N/A",
+    "tuition_fees": "$14,300",
+    "total_enrollment": "N/A"
+  },
+  {
+    "name": "Wilmington University",
+    "rank": "Unranked",
+    "acceptance_rate": "99.9%",
+    "graduation_rate": "13%",
+    "average_retention_rate": "62%",
+    "tuition_fees": "$10,430",
+    "total_enrollment": "9,228"
+  }
+]
